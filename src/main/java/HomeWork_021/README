@@ -1,0 +1,10 @@
+/* Implement a custom collection of integers that allows to:
+* add, when adding a new element, increase the value of each arrays element by the value of the new one.
+* delete, when removing element, decrease the value of each arrays element by the value of the removed one.
+* find element by value
+* find element by index
+* find maximum
+* find minimum
+* find average value of elements
+
+  NOTE: Invalid imput for NULL and other characters but integers */
