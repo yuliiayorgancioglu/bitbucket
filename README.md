@@ -13,17 +13,17 @@ Implement a custom collection of integers that allows to:
 
 myArrayList is an ArrayList of Integer
 
-remove()
-addNew() 
-getMax()
-getMin()
+remove(),
+addNew(), 
+getMax(),
+getMin(),
 getAverage()
-// methods for accessing and manipulating the above list
+ // methods for accessing and manipulating the above list
 
-bollean add()
-Object get()
+bollean add(),
+Object get(),
 bollean contains()
-// methods supported by ArrayList
+ // methods supported by ArrayList
 
-Invalid imput for NULL imnpleneted by using "if condition" checking for NULL in add() and addNew() methods
-Invalid imput for other characters but integers imnpleneted by adding Integer type to the list of parameters in add() and addNew() methods
+* Invalid imput for NULL imnpleneted by using "if condition" checking for NULL in add() and addNew() methods
+* Invalid imput for other characters but integers imnpleneted by adding Integer type to the list of parameters in add() and addNew() methods
