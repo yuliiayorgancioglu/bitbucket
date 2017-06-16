@@ -2,4 +2,5 @@ Implement a custom fixed size collection with default values of 16 or other valu
 Every new element will be added to the end of the queue, if the capacity of the queue has been reached
 remove the first element it filled and shift the queue elements to the left
 
+ is an ArrayList of Integer
 
