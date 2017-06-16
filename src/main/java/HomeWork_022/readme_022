@@ -1,6 +1,5 @@
-Implement a custom fixed size collection with default values of 16 or other value specified by user
-Every new element will be added to the end of the queue, if the capacity of the queue has been reached
-remove the first element it filled and shift the queue elements to the left
+MyQueue is an ArrayList of E, implements a custom fixed size collection with default capacity value of 16 and other value specified by user
+It has 2 constructors that allows to ipmlement default and custom size of the collection and boolean add() method supported by ArrayList 
+with 'while loop' added to check the capacity and rearrange the queue according to HomeWork instaructions 
 
- is an ArrayList of Integer
-
+RunQueue class has two instances of MyQueue - myQueue is for the user value and myQueue1 is for the default one
